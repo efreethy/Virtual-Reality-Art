@@ -1,4 +1,4 @@
-# Virtual Reality Visualizations
+# Virtual Reality Visualization
 ![](https://thumbs.gfycat.com/JoyousVengefulHorsefly-size_restricted.gif)
 
 ### Description
