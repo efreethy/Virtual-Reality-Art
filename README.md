@@ -1,5 +1,5 @@
 # Virtual Reality Visualizations
-![](https://media.giphy.com/media/3ohze34tLkPQlhe1eo/giphy.gif)
+![Example clip](https://gifyu.com/images/vr_art.gif)
 
 ### Description
 * A virtual reality application that synchronizes music with abstract structures and effects.
