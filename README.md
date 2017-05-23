@@ -1,5 +1,6 @@
 # Virtual Reality Visualizations
-![alt text](https://media.giphy.com/media/3ohze34tLkPQlhe1eo/giphy.gif "Logo Title Text 1")
+![](https://media.giphy.com/media/3ohze34tLkPQlhe1eo/giphy.gif)
+
 ### Description
 * A virtual reality application that synchronizes music with abstract structures and effects.
 * Mesh renderer modulates crystal colors
