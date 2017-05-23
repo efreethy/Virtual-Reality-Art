@@ -1,4 +1,7 @@
-# Virtual Reality Visualization
+# Space Structures
+
+Virtual Reality Visualization
+
 ![](https://thumbs.gfycat.com/JoyousVengefulHorsefly-size_restricted.gif)
 
 ### Description
